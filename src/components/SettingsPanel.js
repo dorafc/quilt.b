@@ -1,4 +1,5 @@
 import React from 'react'
+import '../styles/SettingsPanel.css'
 
 function SettingsPanel(){
   return (

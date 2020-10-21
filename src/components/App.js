@@ -6,13 +6,10 @@ import QuiltSpace from './QuiltSpace'
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Header />
       <SettingsPanel />
       <QuiltSpace />
-      <p>
-        Beep boop
-      </p>
     </div>
   );
 }

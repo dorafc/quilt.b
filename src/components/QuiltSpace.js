@@ -1,4 +1,5 @@
 import React from 'react'
+import '../styles/QuiltSpace.css'
 
 function QuiltSpace(){
   return(
